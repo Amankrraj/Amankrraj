@@ -79,4 +79,4 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
   <img src="https://skil
 
-<img src="https://C:\Users\amit1\Downloads\pixal art.gif" width="100%" height="1" />
+<img src="file:///C:/Users/amit1/Downloads/pixal%20art.gif" width="100%" height="1" />
