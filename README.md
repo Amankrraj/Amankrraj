@@ -55,10 +55,10 @@
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
+  🌱 I am currently study and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  💬 Skills I acquire in programming languages such as Html, C, Python, SQL.<br>
+  ⚡ Interest in DS/AI/ML, Animation, Development/Engineering, etc.<br>
 </p>
 
 <h3>🧲 Drop me a line:</h3>
