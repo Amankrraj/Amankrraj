@@ -97,7 +97,7 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/Amankrraj/Wall-E-Desk/Wall-E-Desk">
+<a href="https://github.com/Amankrraj/Animated-portfolio">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Wall-E-Desk" /></a>
 <a href="https://github.com/Amankrraj/Void-OSE">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Void-OSE" /></a>
