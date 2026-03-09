@@ -98,9 +98,9 @@
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
 <a href="https://github.com/Amankrraj/Animated-portfolio">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Wall-E-Desk" /></a>
-<a href="https://github.com/Amankrraj/Void-OSE">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Void-OSE" /></a>
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Animated-portfolio" /></a>
+<a href="https://github.com/Amankrraj/Profile">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Profile" /></a>
 <a href="https://github.com/Amankrraj/Wall-E-Desk/IDE-Cosmo">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=IDE-Cosmo" /></a>
 <a href="https://github.com/A/Wall-E-Desk/Books-Of-Knowledge">
