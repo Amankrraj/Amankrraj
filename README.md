@@ -102,11 +102,7 @@
 <a href="https://github.com/Amankrraj/Profile">
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=Profile" /></a>
 /></a>
-<a href="https://github.com/Amankrraj/Wall-E-Desk/PixelVault">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=PixelVault" /></a>
-<a href="https://github.com/Amankrraj/Wall-E-Desk/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Amankrraj&repo=My-Projects" /></a>
-  </p>
+
 </div>
 
 
